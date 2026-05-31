@@ -1,2 +1,3 @@
 # Micrograd-from-Scratch
-Automatic differentiation project from scratch. 
+Automatic differentiation project from scratch.
+# My New Project
